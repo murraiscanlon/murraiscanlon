@@ -1,7 +1,7 @@
 ![]()
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/murraiscanlon/murraiscanlon/blob/main/bot.png">
+  <img width="128" height="250" src="https://github.com/murraiscanlon/murraiscanlon/blob/main/bot.png">
 </p>
 
 
