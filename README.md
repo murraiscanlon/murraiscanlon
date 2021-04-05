@@ -1,4 +1,8 @@
-![](https://www.flaticon.com/free-icon/bot_3135539)
+![]()
+
+<p align="center">
+  <img width="460" height="300" src="https://www.pinterest.com/pin/1124633338167022645">
+</p>
 
 
 STEM Instructor by day, Penn student by night. . .and weekends.
