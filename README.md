@@ -1,4 +1,5 @@
-![](https://github.com/murraiscanlon/murraiscanlon/blob/main/bot.png)
+![](https://www.flaticon.com/free-icon/bot_3135539)
+
 
 STEM Instructor by day, Penn student by night. . .and weekends.
 Transitioning into the field of Software Development
