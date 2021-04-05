@@ -7,7 +7,7 @@
 
 
 
-![](https://github.com/murraiscanlon/murraiscanlon/blob/main/education.png)  STEM Instructor by day, Penn student by night. . .and weekends.  
+![](https://github.com/murraiscanlon/murraiscanlon/blob/main/education.png) <p></p> STEM Instructor by day, Penn student by night. . .and weekends.  
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/code.png)  Transitioning into the field of Software Development  
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/code.png)  Actively seeking internsip opportunities for Summer 2021  
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/code.png)  Profient Languages/Tools: Java, Python, JavaScript/HTM5/CSS3 JavaFX, GIT, 
