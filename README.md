@@ -1,7 +1,7 @@
 ![]()
 
 <p align="center">
-  <img width="460" height="300" src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=1124633338167022645" height="445" width="345" frameborder="0" scrolling="no" ></iframe>">
+  <img width="460" height="300" src="https://github.com/murraiscanlon/murraiscanlon/blob/main/bot.png">
 </p>
 
 
