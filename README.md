@@ -12,7 +12,7 @@
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/sprout.png) Actively seeking internship opportunities for Summer 2021  <br/> 
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/code.png) Profient Languages/Tools: Java, Python, GIT  <br/> 
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/code.png) Familiar Languages/Tools: JavaScript/HTM5/CSS3, Node.js, SQL, C  <br/> 
-![](https://github.com/murraiscanlon/murraiscanlon/blob/main/cloud.png) Interested in learning more about: cloud services  <br/> 
-![](https://github.com/murraiscanlon/murraiscanlon/blob/main/network.png) Meet-Up Groups: Women Who Code & Hack Reactor Austin 
+![](https://github.com/murraiscanlon/murraiscanlon/blob/main/cloud.png) Interested in learning more about: full-stack web development and cloud services  <br/> 
+![](https://github.com/murraiscanlon/murraiscanlon/blob/main/network.png) Connect with me via ![LinkedIn] (https://www.linkedin.com/in/murraiscanlon/)
 
 
