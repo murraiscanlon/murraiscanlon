@@ -12,6 +12,6 @@
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/sprout.png) Actively seeking internship opportunities for Summer 2021  <br/> 
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/code.png) Languages/Tools: Java, Python, JavaScript/HTM5/CSS3, GIT  <br/> 
 ![](https://github.com/murraiscanlon/murraiscanlon/blob/main/cloud.png) Interested in learning more about: full-stack web development and cloud services  <br/> 
-![](https://github.com/murraiscanlon/murraiscanlon/blob/main/network.png) Connect with me via [LinkedIn] <https://www.linkedin.com/in/murraiscanlon/>
+![](https://github.com/murraiscanlon/murraiscanlon/blob/main/network.png) Connect with me via LinkedIn: <https://www.linkedin.com/in/murraiscanlon/>
 
 
